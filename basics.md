@@ -7,3 +7,7 @@
 * `git log` - show a history of the changes and commits you have made
 * add one more line so there is something to show in git diff 
 display reverse chronological order of comits
+* `git push <remote> <branch>` - send changes tin local repository to a remote repository branch
+* `git pull <remote> <branch> - get changes from remote repository into local repository
+
+Forking a Repository: Create a complete copy of an existing GitHub repository to enabel collaboration or stealing
